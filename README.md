@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me:
 
-<a href="https://www.linkedin.com/in/danielmiranda132" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge" target="_blank"></a>
+<a href="https://www.linkedin.com/in/danielmiranda132" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge"></a>
 
 ##
 
